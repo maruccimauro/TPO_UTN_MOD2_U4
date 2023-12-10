@@ -2,18 +2,17 @@ GIT HUB PAGES :
 
 [VER PROYECTO ONLINE](https://maruccimauro.github.io/TPO_UTN_MOD2_U4)
 
-
-
-
-
-
-
-
-
-
-
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
