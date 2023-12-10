@@ -18,7 +18,7 @@ function App() {
       <HeaderContainer></HeaderContainer>
       <Routes>
         <Route path="/" Component={ProductsList} />
-        <Route path="/TPO_UTN_MOD2_U3" Component={ProductsList} />
+        <Route path="/TPO_UTN_MOD2_U4" Component={ProductsList} />
         <Route path="/productslist" Component={ProductsList} />
         <Route path="/home" Component={ProductsList}></Route>
         <Route path="/verproducto/:id" Component={SectionProductPanel} />
