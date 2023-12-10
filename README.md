@@ -1,6 +1,6 @@
 GIT HUB PAGES :
 
-[VER PROYECTO ONLINE](https://maruccimauro.github.io/TPO_UTN_MOD2_U4/)
+[VER PROYECTO ONLINE](https://maruccimauro.github.io/TPO_UTN_MOD2_U4)
 
 
 
