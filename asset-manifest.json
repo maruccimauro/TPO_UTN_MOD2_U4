@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TPO_UTN_MOD2_U4/static/css/main.61f1512c.css",
-    "main.js": "/TPO_UTN_MOD2_U4/static/js/main.f137f65f.js",
+    "main.js": "/TPO_UTN_MOD2_U4/static/js/main.68a475cf.js",
     "static/js/787.d4aba7ab.chunk.js": "/TPO_UTN_MOD2_U4/static/js/787.d4aba7ab.chunk.js",
     "static/media/Amazon Ember.ttf": "/TPO_UTN_MOD2_U4/static/media/Amazon Ember.4c5f8783fc6015d993cd.ttf",
     "static/media/fondo1.jpg": "/TPO_UTN_MOD2_U4/static/media/fondo1.1842e730a40ac700066d.jpg",
@@ -100,11 +100,11 @@
     "static/media/product9_1.jpg": "/TPO_UTN_MOD2_U4/static/media/product9_1.d9a3c29320953e51737d.jpg",
     "index.html": "/TPO_UTN_MOD2_U4/index.html",
     "main.61f1512c.css.map": "/TPO_UTN_MOD2_U4/static/css/main.61f1512c.css.map",
-    "main.f137f65f.js.map": "/TPO_UTN_MOD2_U4/static/js/main.f137f65f.js.map",
+    "main.68a475cf.js.map": "/TPO_UTN_MOD2_U4/static/js/main.68a475cf.js.map",
     "787.d4aba7ab.chunk.js.map": "/TPO_UTN_MOD2_U4/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61f1512c.css",
-    "static/js/main.f137f65f.js"
+    "static/js/main.68a475cf.js"
   ]
 }
