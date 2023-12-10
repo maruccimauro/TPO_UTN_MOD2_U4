@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Estilos para el select personalizado */
+    .custom-select {
+      position: relative;
+      display: inline-block;
+      width: 10px;
+    }
+
+    /* Estilo del botón */
+    .custom-select button {
+      padding: 8px;
+      background-color: #f0f0f0;
+      border: 1px solid #ccc;
+      cursor: pointer;
+      width: 120px; /* Ajusta el ancho del botón según tus necesidades */
+    }
+
+    /* Estilo de la lista desplegable */
+    .custom-select select {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      width: 100%;
+      display: none;
+    }
+
+    .custom-select select option {
+      padding: 8px;
+    }
+
+    /* Mostrar la lista desplegable al hacer clic en el botón */
+    .custom-select.active select {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+<script>
+const rutaRaiz = window.location.origin + window.location.pathname;
+console.log(rutaRaiz);
+</script>
+</body>
+</html>
