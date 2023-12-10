@@ -3,7 +3,7 @@ import MiniatureImageProduct from "./MiniatureImageProduct";
 import Image from "../../General/Image";
 import { useParams } from "react-router-dom";
 import { DataProducts } from "../../Data/DataProducts";
-
+import { DataProductsStock } from "../../Data/DataProductsStock";
 
 export default function SectionProductPanel() {
   const {id} = useParams();
@@ -49,8 +49,7 @@ export default function SectionProductPanel() {
             <div className="topPanel">{leyend}</div>
             <div className="separatorPanelv2"></div>
             <div className="productItemOffer">{offer}</div>
-            <div className="productItemPrice">${price}</div>
-
+            <div className="productItemPrice">Price ${price}</div>
             <input
               type="submit"
               value="COMPRAR"
@@ -59,12 +58,17 @@ export default function SectionProductPanel() {
               }}
               className="buttonBuyProduct"
             />
-
             {sellProduct}
             <div className="separatorPanel"></div>
             <div className="middlePanel">{productProps}</div>
             <div className="separatorPanel"></div>
-            <div className="bottomPanel">About this : <br/>{aboutProduct} Product code: ( COD:{id} )</div>
+            <div className="bottomPanel">
+              About this : <br />
+              {aboutProduct}{" "}
+            </div>
+            <div>
+              Product code #{id} Stock {DataProductsStock[id]}u.
+            </div>
           </div>
           <div className="othersPanel"></div>
         </div>
